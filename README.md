@@ -1,10 +1,10 @@
-##📌 Student-expense-tracker(Python Project)💰
+## 📌 Student-expense-tracker(Python Project)💰
 A beginner-friendly Python CLI expense tracker designed to help students practice **core programming concepts** such as **lists, dictionaries, sets, recursion, and clean logic**.  
 The project allows users to add expenses, view them, calculate total spending, and analyze spending by category — all through a simple command-line interface.
 
 ---
 
-## Features✨
+## 📌 Features✨
 - Add expenses with **amount**, **category**, and optional **note**  
 - View all recorded expenses in a structured list  
 - Calculate **total spending** using recursion  
@@ -14,7 +14,7 @@ The project allows users to add expenses, view them, calculate total spending, a
 
 ---
 
-## How It Works?⚡
+## 📌 How It Works?⚡
 1. User runs the Python program. 🏃‍♂️    
 2. The program displays a **menu** with  options: Add Expense, View Expenses, Total Spending, Category Analysis, and Exit.⌨️   
 3. The user selects an option by typing the corresponding number.  
@@ -27,7 +27,7 @@ The project allows users to add expenses, view them, calculate total spending, a
 ---
 
 
-## Project Structure📂
+## 📌 Project Structure📂
 ```
 student-expense-tracker/
 │
@@ -38,7 +38,7 @@ student-expense-tracker/
 
 ---
 
-## How to Run the Project▶️
+## 📌 How to Run the Project▶️
 1. Clone the repository:
 ```
 git clone https://github.com/yourusername/student-expense-tracker.git
@@ -54,7 +54,7 @@ python expense_tracker.py
 
 ---
 
-## Sample Output🖥️
+## 📌 Sample Output🖥️
 ```
 === Student Expense Tracker ===
 1. Add Expense
@@ -81,7 +81,7 @@ travel: 200.0
 Highest spending category: travel (200.0)
 ```
 ---
-## What I Learned💡
+## 📌 What I Learned💡
 
 1. **Lists, dictionaries, sets, and tuples** – for efficiently storing, organizing, and managing expense data.
 
@@ -94,7 +94,7 @@ Highest spending category: travel (200.0)
 5. **Data analysis in Python** – analyzing expenses and generating insights from basic data structures.
 
 
-## Future Scope🚀
+## 📌 Future Scope🚀
 
 1. **File persistence** – save expenses to a file so data isn’t lost when the program closes.
 
@@ -107,12 +107,12 @@ Highest spending category: travel (200.0)
 5. **Web or mobile expansion** – eventually build a full-stack version or mobile app for broader usage.
 
 
-## Author👩‍💻
+## 📌 Author👩‍💻
 ```
 Kareena Treesa Thomas- 💻🚀 – Tech enthusiast and aspiring developer. 
 GitHub: https://github.com/Kareena-Treesa-Thomas
 ```
 ---
-## License📝
+## 📌 License📝
 This project is licensed under the MIT License – see the LICENSE file for details.
 
