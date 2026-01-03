@@ -66,12 +66,12 @@ Enter choice: 1
 Enter amount spent: 50
 Enter category (food/travel/shopping/etc): food
 Optional note: lunch
-Expense added successfully!
+✅Expense added successfully!
 
 Enter choice: 1
 Enter amount spent: 200
 Enter category (travel): bus
-Expense added successfully!
+✅Expense added successfully!
 
 Enter choice: 4
 Unique Categories: {'travel', 'food'}
