@@ -56,29 +56,26 @@ python expense_tracker.py
 
 ## 📍 Sample Output🖥️
 ```
-=== Student Expense Tracker ===
+=== Student Expense Tracker 💰 ===
 1. Add Expense
 2. View Expenses
 3. Total Spending
 4. Category Analysis
-5. Exit
+5. Show Categories
+6. Exit
+
 Enter choice: 1
-Enter amount spent: 50
-Enter category (food/travel/shopping/etc): food
+Enter amount spent: 100
+Enter category: food
 Optional note: lunch
-✅Expense added successfully!
+✅ Expense added successfully!
 
-Enter choice: 1
-Enter amount spent: 200
-Enter category (travel): bus
-✅Expense added successfully!
+Enter choice: 3
+💵 Total Spending: 100.0
 
-Enter choice: 4
-Unique Categories: {'travel', 'food'}
-Spending per category:
-food: 50.0
-travel: 200.0
-Highest spending category: travel (200.0)
+Enter choice: 6
+👋 Exiting... Thank you!
+
 ```
 ---
 ## 📍 What I Learned💡
