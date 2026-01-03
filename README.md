@@ -87,14 +87,14 @@ Highest spending category: travel (200.0)
 3.Designing a clean CLI interface
 4.Structuring a mini-project professionally for GitHub
 5.How to analyze data and generate insights using Python
----
+
 ## Future Scope
 1.Save expenses to a file for persistence
 2.Add priority or recurring expenses
 3.Convert CLI into GUI using Tkinter
 4.Generate weekly/monthly reports
 5.Expand into web or mobile applications
----
+
 ## Author
 ```
 Kareena Treesa Thomas- 💻🚀 – Tech enthusiast and aspiring developer. 
@@ -103,4 +103,4 @@ GitHub: https://github.com/Kareena-Treesa-Thomas
 ---
 ## License
 This project is licensed under the MIT License – see the LICENSE file for details.
----
+
