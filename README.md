@@ -28,7 +28,7 @@ The project allows users to add expenses, view them, calculate total spending, a
 
 
 ## Project Structure
-1.student-expense-tracker/
-2.expense_tracker.py # Main Python CLI code
-3.README.md # Project description and instructions
-4.LICENSE # MIT License
+student-expense-tracker/
+expense_tracker.py # Main Python CLI code
+README.md # Project description and instructions
+LICENSE # MIT License
