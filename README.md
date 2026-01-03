@@ -1,5 +1,5 @@
 ## 📌 Student-expense-tracker(Python Project)💰
-A beginner-friendly Python CLI expense tracker designed to help students practice **core programming concepts** such as **lists, dictionaries, sets, recursion, and clean logic**.  
+A beginner-friendly Python CLI expense tracker designed to help students practice **core programming concepts** such as **lists, dictionaries, sets, recursion, functions and clean logic**.  
 The project allows users to add expenses, view them, calculate total spending, and analyze spending by category — all through a simple command-line interface.
 
 ---
@@ -78,17 +78,19 @@ Enter choice: 6
 
 ```
 ---
-## 📍 What I Learned💡
+## 📍 What I Learned 💡
 
 1. **Lists, dictionaries, sets, and tuples** – for efficiently storing, organizing, and managing expense data.
 
-2. **Recursion** – used to calculate total spending in a clean and elegant way.
+2. **Functions** – breaking the program into reusable blocks such as adding expenses, viewing data, and analysis for better readability and maintainability.
 
-3. **CLI interface design** – creating a simple, intuitive menu-driven command-line interface.
+3. **Recursion** – used to calculate total spending in a clean and elegant way.
 
-4. **Project structuring for GitHub** – organizing files and README professionally for a mini-project.
+4. **CLI interface design** – creating a simple, intuitive menu-driven command-line interface.
 
-5. **Data analysis in Python** – analyzing expenses and generating insights from basic data structures.
+5. **Project structuring for GitHub** – organizing files and README professionally for a mini-project.
+
+6. **Data analysis in Python** – analyzing expenses and generating insights using basic data structures.
 
 
 ## 📍 Future Scope🚀
