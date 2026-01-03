@@ -82,18 +82,30 @@ Highest spending category: travel (200.0)
 ```
 ---
 ## What I Learned
-1.Lists, dictionaries, sets, and tuples for storing and managing data
-2.Recursion for calculations
-3.Designing a clean CLI interface
-4.Structuring a mini-project professionally for GitHub
-5.How to analyze data and generate insights using Python
+
+1. **Lists, dictionaries, sets, and tuples** – for efficiently storing, organizing, and managing expense data.
+
+2. **Recursion** – used to calculate total spending in a clean and elegant way.
+
+3. **CLI interface design** – creating a simple, intuitive menu-driven command-line interface.
+
+4. **Project structuring for GitHub** – organizing files and README professionally for a mini-project.
+
+5. **Data analysis in Python** – analyzing expenses and generating insights from basic data structures.
+
 
 ## Future Scope
-1.Save expenses to a file for persistence
-2.Add priority or recurring expenses
-3.Convert CLI into GUI using Tkinter
-4.Generate weekly/monthly reports
-5.Expand into web or mobile applications
+
+1. **File persistence** – save expenses to a file so data isn’t lost when the program closes.
+
+2. **Priority or recurring expenses** – add functionality to track important or repeated expenses.
+
+3. **GUI version using Tkinter** – create a user-friendly graphical interface for the tracker.
+
+4. **Weekly/Monthly reports** – generate automatic summaries for better expense management.
+
+5. **Web or mobile expansion** – eventually build a full-stack version or mobile app for broader usage.
+
 
 ## Author
 ```
