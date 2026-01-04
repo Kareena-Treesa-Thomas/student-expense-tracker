@@ -41,7 +41,7 @@ student-expense-tracker/
 ## 📍 How to Run the Project▶️
 1. Clone the repository:
 ```
-git clone https://github.com/kareena-treesa-thomas/student-expense-tracker.git
+git clone https://github.com/Kareena-Treesa-Thomas/student-expense-tracker.git
 ```
 2. Navigate to the project folder:
 ```
