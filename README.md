@@ -4,7 +4,7 @@
 
 ---
 
-## 📍 Features✨
+## 📍 Key Features✨
 - Add expenses with **amount**, **category**, and optional **note**  
 - View all recorded expenses in a structured list  
 - Calculate **total spending** using recursion  
